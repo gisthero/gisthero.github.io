@@ -192,13 +192,13 @@ p.header {
 	background: #fff url(../img/services_bg.jpg) no-repeat center;
 }
 
-#works-top-desktop {
-	background: #fff url(../img/works_bg.jpg) fixed no-repeat center;
+#features-top-desktop {
+	background: #fff url(../img/features_bg.jpg) fixed no-repeat center;
 	background-size: cover;
 }
 
-#works-top-mobile {
-	background: #fff url(../img/works_bg.jpg) no-repeat center;
+#features-top-mobile {
+	background: #fff url(../img/features_bg.jpg) no-repeat center;
 }
 
 #gallery-top-desktop {
@@ -229,12 +229,12 @@ p.header {
 }
 
 #services-top-desktop,
-#works-top-desktop,
+#features-top-desktop,
 #gallery-top-desktop,
 #team-top-desktop,
 #contact-top-desktop,
 #services-top-mobile,
-#works-top-mobile,
+#features-top-mobile,
 #gallery-top-mobile,
 #team-top-mobile,
 #contact-top-mobile {
@@ -243,7 +243,7 @@ p.header {
 
 @media (max-width: 1024px) {
 	#services-top-desktop,
-	#works-top-desktop,
+	#features-top-desktop,
 	#gallery-top-desktop,
 	#team-top-desktop,
 	#contact-top-desktop {
@@ -254,7 +254,7 @@ p.header {
 /* ==== Sections ==== */
 
 #services,
-#works,
+#features,
 #gallery,
 #contact  {
 	padding-right: 20px;
