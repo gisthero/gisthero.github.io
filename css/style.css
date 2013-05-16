@@ -201,13 +201,13 @@ p.header {
 	background: #fff url(../img/features_bg.jpg) no-repeat center;
 }
 
-#gallery-top-desktop {
-	background: #fff url(../img/gallery_bg.jpg) fixed no-repeat center;
+#screenshots-top-desktop {
+	background: #fff url(../img/screenshots_bg.jpg) fixed no-repeat center;
 	background-size: cover;
 }
 
-#gallery-top-mobile {
-	background: #fff url(../img/gallery_bg.jpg) no-repeat center;
+#screenshots-top-mobile {
+	background: #fff url(../img/screenshots_bg.jpg) no-repeat center;
 }
 
 #team-top-desktop {
@@ -230,12 +230,12 @@ p.header {
 
 #services-top-desktop,
 #features-top-desktop,
-#gallery-top-desktop,
+#screenshots-top-desktop,
 #team-top-desktop,
 #contact-top-desktop,
 #services-top-mobile,
 #features-top-mobile,
-#gallery-top-mobile,
+#screenshots-top-mobile,
 #team-top-mobile,
 #contact-top-mobile {
 	padding: 75px 0;
@@ -244,7 +244,7 @@ p.header {
 @media (max-width: 1024px) {
 	#services-top-desktop,
 	#features-top-desktop,
-	#gallery-top-desktop,
+	#screenshots-top-desktop,
 	#team-top-desktop,
 	#contact-top-desktop {
 		background-size: auto;
@@ -255,7 +255,7 @@ p.header {
 
 #services,
 #features,
-#gallery,
+#screenshots,
 #contact  {
 	padding-right: 20px;
 	padding-left: 20px;
